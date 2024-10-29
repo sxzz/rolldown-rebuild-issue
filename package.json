@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rolldown": "^0.13.2",
+    "rolldown": "nightly",
     "rollup": "^4.21.2"
   }
 }
